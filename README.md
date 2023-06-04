@@ -1,2 +1,2 @@
 # Odev-1
-Patike.dev PostgreSQL dersi ilk ödevi.
+Patika.dev PostgreSQL dersi ilk ödevi.
